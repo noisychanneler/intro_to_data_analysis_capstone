@@ -3,7 +3,7 @@
 """
 Created on Wed Apr 18 17:04:59 2018
 
-@author: andrew.guindiibm.com
+@author: andrew
 
 Capstone - CodeAcademy Introduction to Data Analysis
 """
